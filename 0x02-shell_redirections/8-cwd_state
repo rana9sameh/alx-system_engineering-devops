@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -la > foo.ls_cwd_content
